@@ -33,7 +33,6 @@ reflection = require 'reflection'
 musicutil = require 'musicutil'
 fileselect=require 'fileselect'
 
-
 engine.name = 'Sunshine'      -- use the Sunshine SuperCollider engine
 
 include "lib/utilities"       -- load utilities written for this script
