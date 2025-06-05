@@ -36,7 +36,7 @@ The interface uses the metaphor of the sun, its rays and photons. The script dis
 By default:
 
 * The left sun is set to granulate live or pre-recorded audio using a new SuperCollider engine called `sunshine`
-* The right sun processes audio with softcut.
+* The right sun processes audio with softcut
 
 ## Sun 1: granulate audio
 ![](images/kinesis_granular_mode2.png)
