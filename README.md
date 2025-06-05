@@ -8,7 +8,7 @@ Many comments have been added to the code that help explain how it works and pro
 
 ```-- here is a comment```
 
-When code is preceeded by two dashes (`--`) it is ignored by Lua. When making changes to code, it is often helpful to make a copy of the code immediately above or below its location and placing two dashes in front of the copied code. This way, if the changes don't work it is easy to delete the modified code and revert to the original code. The process of adding/removing dashes to code to disable/enable it is called "commenting code" and "uncommenting code"
+When code is preceeded by two dashes (`--`) it is ignored by Lua. When making changes to code, it is often helpful to make a copy of the code immediately above or below its location and placing two dashes in front of the copied code. This way, if the changes don't work it is easy to delete the modified code and revert to the original code. The process of adding/removing dashes to code to disable/enable it is called "commenting code" and "uncommenting code."
 
 Also, look for the robot guy in the code (`-- [[ 0_0 ]] --`), which highlights ideas for modification/exploration.
 
